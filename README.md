@@ -22,4 +22,4 @@ Note that when this tool is paused, the Controller still works as usual, but it 
 The autoload feature, if enabled, activates this tool automatically every time you turn on your pc. It can be enabled or disabled when you plug in your device, just by clicking the "Enable/Disable Autoload on startup" button on the notification.
 
 ## Updates
-Working on other features such as a settings menu, a popup for low battery. ('only if you tell me I have to')
+Working on other features such as a settings menu, a popup for low battery. (only if you tell me I have to)
